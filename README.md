@@ -1,4 +1,9 @@
-### Hi there 👋
+### :wave: Hi there, I'm Paul
+
+* :smile: Pronouns: he/him/his
+* :necktie: Researcher, statistician, bioinformatician, data scientist
+* :muscle: Sports: :ski:/:tennis:/:runner:
+
 
 <!--
 **pllittle/pllittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
