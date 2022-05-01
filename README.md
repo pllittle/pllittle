@@ -4,13 +4,9 @@
 * :necktie: Researcher, statistician, bioinformatician, data scientist
 * :muscle: Sports: :ski:/:tennis:/:runner:
 
-### My Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pllittle" />
-
-### Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle" />
+| My Stats | Top Languages |
+| --- | --- |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=pllittle" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle" /> |
 
 <!--
 **pllittle/pllittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
