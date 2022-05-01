@@ -5,9 +5,9 @@
 * :muscle: Sports: :ski:/:tennis:/:runner:
 * :eyes: ![Profile views](https://gpvc.arturio.dev/pllittle)
 
-| My Stats | Top Languages |
-| --- | --- |
-| <a href="https://github-readme-streak-stats.herokuapp.com/?user=pllittle&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pllittle&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle&hide_border=true" /></a> |
+### My Stats
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=pllittle&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pllittle&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727" /></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle&hide_border=true" /></a>
 
 
 <!--
