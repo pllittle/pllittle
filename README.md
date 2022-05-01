@@ -3,15 +3,12 @@
 * :smile: Pronouns: he/him/his
 * :necktie: Researcher, statistician, bioinformatician, data scientist
 * :muscle: Sports: :ski:/:tennis:/:runner:
+* :eyes: <img src="https://gpvc.arturio.dev/pllittle" />
 
 | My Stats | Top Languages |
 | --- | --- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=pllittle&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle&hide_border=true" /> |
 
-
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pllittle&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
--->
 
 <!--
 **pllittle/pllittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
