@@ -6,7 +6,7 @@
 
 | My Stats | Top Languages |
 | --- | --- |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=pllittle&hide_border=true&date_format=j%2Fn%5B%2FY%5D" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle&hide_border=true" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=pllittle&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllittle&hide_border=true" /> |
 
 
 <!--
