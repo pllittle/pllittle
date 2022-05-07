@@ -3,7 +3,7 @@
 * :smile: Pronouns: he/him/his
 * :necktie: Researcher, statistician, bioinformatician, data scientist
 * :muscle: Sports: :ski:/:tennis:/:runner:
-* :eyes: <img align="center" src="https://gpvc.arturio.dev/pllittle" height=30 />
+* :eyes: <img align="center" src="https://gpvc.arturio.dev/pllittle" height="20" />
 
 | My Stats | Top Languages |
 | --- | --- |
