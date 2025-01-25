@@ -2,7 +2,6 @@
 
 * :smile: Pronouns: he/him/his
 * :necktie: Researcher, statistician, bioinformatician, data scientist
-* :stuck_out_tongue: [GitHub Skyline 2023](https://skyline.github.com/pllittle/2023)
 * :muscle: Sports: :ski:/:tennis:/:runner:
 * :eyes: <a href="https://gpvc.arturio.dev/pllittle"><img align="center" src="https://gpvc.arturio.dev/pllittle" height="20" /></a>
 
