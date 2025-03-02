@@ -10,7 +10,7 @@
 <div align="center">
 
 | Software | Releases | Code Size | Init Commit | Last Commit |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :---: | :--- |
 | [smarter](https://github.com/pllittle/smarter) | [![CRAN status](https://www.r-pkg.org/badges/version/smarter)](https://cran.r-project.org/package=smarter) | [![](https://img.shields.io/github/languages/code-size/pllittle/smarter.svg)](https://github.com/pllittle/smarter) | 2019-04-05 | [![](https://img.shields.io/github/last-commit/pllittle/smarter.svg)](https://github.com/pllittle/smarter/commits/master) |
 | [SMASH](https://github.com/sun-lab/smash) | [![CRAN status](https://www.r-pkg.org/badges/version/smash)](https://cran.r-project.org/package=SMASH) | [![](https://img.shields.io/github/languages/code-size/sun-lab/smash.svg)](https://github.com/sun-lab/smash) | 2018-10-18 | [![](https://img.shields.io/github/last-commit/sun-lab/smash.svg)](https://github.com/sun-lab/smash/commits/master) |
 | [UNMASC](https://github.com/pllittle/unmasc) | ![CRAN status](https://www.r-pkg.org/badges/version/UNMASC) | [![](https://img.shields.io/github/languages/code-size/pllittle/UNMASC.svg)](https://github.com/pllittle/UNMASC) | 2021-10-07 | [![](https://img.shields.io/github/last-commit/pllittle/UNMASC.svg)](https://github.com/pllittle/UNMASC/commits/master) |
